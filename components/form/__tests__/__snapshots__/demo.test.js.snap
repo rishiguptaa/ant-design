@@ -1075,7 +1075,7 @@ exports[`renders ./components/form/demo/disabled-input-debug.md correctly 1`] = 
         </div>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
@@ -1117,7 +1117,7 @@ exports[`renders ./components/form/demo/disabled-input-debug.md correctly 1`] = 
         </div>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
@@ -1190,7 +1190,7 @@ exports[`renders ./components/form/demo/disabled-input-debug.md correctly 1`] = 
         </div>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
@@ -1232,7 +1232,7 @@ exports[`renders ./components/form/demo/disabled-input-debug.md correctly 1`] = 
         </div>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
@@ -1331,7 +1331,7 @@ exports[`renders ./components/form/demo/disabled-input-debug.md correctly 1`] = 
         </div>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
@@ -1386,7 +1386,7 @@ exports[`renders ./components/form/demo/disabled-input-debug.md correctly 1`] = 
         </div>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
@@ -1477,7 +1477,7 @@ exports[`renders ./components/form/demo/disabled-input-debug.md correctly 1`] = 
         </div>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
@@ -1528,7 +1528,7 @@ exports[`renders ./components/form/demo/disabled-input-debug.md correctly 1`] = 
         </div>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
@@ -6221,7 +6221,7 @@ exports[`renders ./components/form/demo/validate-static.md correctly 1`] = `
         </div>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
@@ -6348,7 +6348,7 @@ exports[`renders ./components/form/demo/validate-static.md correctly 1`] = `
         </span>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
@@ -6528,7 +6528,7 @@ exports[`renders ./components/form/demo/validate-static.md correctly 1`] = `
         </span>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
@@ -6915,7 +6915,7 @@ exports[`renders ./components/form/demo/validate-static.md correctly 1`] = `
         </span>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
@@ -7004,7 +7004,7 @@ exports[`renders ./components/form/demo/validate-static.md correctly 1`] = `
                 </div>
               </div>
               <div
-                class="ant-form-item-explain"
+                class="ant-form-item-explain show-help-appear show-help"
               >
                 <div
                   role="alert"
@@ -7602,7 +7602,7 @@ exports[`renders ./components/form/demo/without-form-create.md correctly 1`] = `
         </div>
       </div>
       <div
-        class="ant-form-item-explain"
+        class="ant-form-item-explain show-help-appear show-help"
       >
         <div
           role="alert"
