@@ -34,16 +34,8 @@ const FormLayoutDemo = () => {
       requiredMark={requiredMark}
     >
       <Form.Item label="Required Mark" name="requiredMark">
-        <Radio.Group>
-          <Radio.Button value="optional">Optional</Radio.Button>
-          <Radio.Button value={true}>Required</Radio.Button>
-          <Radio.Button value={false}>Hidden</Radio.Button>
-        </Radio.Group>
       </Form.Item>
       <Form.Item label="Field A" required>
-        <Input placeholder="input placeholder" />
-      </Form.Item>
-      <Form.Item label="Field B">
         <Input placeholder="input placeholder" />
       </Form.Item>
       <Form.Item>
